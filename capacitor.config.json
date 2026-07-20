@@ -1,0 +1,17 @@
+{
+  "appId": "com.block.streetpool",
+  "appName": "方块街头桌球",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "automatic"
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#1a1a2e"
+    }
+  }
+}
