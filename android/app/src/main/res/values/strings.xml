@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">方块街头桌球</string>
+    <string name="title_activity_main">方块街头桌球</string>
+    <string name="package_name">com.block.streetpool</string>
+    <string name="custom_url_scheme">com.block.streetpool</string>
+</resources>
