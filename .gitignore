@@ -12,3 +12,16 @@ ios/App/Pods/
 ios/App/build/
 *.log
 .npm-cache/
+
+# Build, cache & secret exclusions
+.env
+.env.*
+!.env.example
+.build/
+DerivedData/
+.gradle/
+__pycache__/
+.venv/
+*.apk
+*.aab
+*.ipa
